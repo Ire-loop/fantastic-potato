@@ -41,6 +41,10 @@ For example, to generate a password with a length of 12 characters and no upperc
 ```CSS
   python password_generator.py --length 12 --no-uppercase
 ```
+To terminate press 'x' then press enter.
+
+To continue press any key then press enter.
+
 ## Contributing
 If you find a bug or have a feature request, please open an issue. Contributions are also welcome via pull requests.
 

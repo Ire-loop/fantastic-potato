@@ -14,11 +14,11 @@ This is a simple Python script that generates a random password based on user-de
 ```
    2. Navigate to the project directory:
 ```bash
-  cd password-generator
+    cd password-generator
 ```
    3. Install the required dependencies:
 ```bash
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 ```
 
 ## Usage
